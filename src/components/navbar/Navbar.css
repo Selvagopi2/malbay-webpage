@@ -49,7 +49,7 @@
   }
 
   .navbar-menu a:hover {
-    text-decoration: underline #4d74b3; 
+    text-decoration: underline #4d74b3 2px; 
   }
   
   .navbar-menu a.active {
