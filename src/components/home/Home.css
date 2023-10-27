@@ -1,0 +1,15 @@
+.home {
+    margin: 0;
+    position: relative;
+}
+
+.homepage {
+    text-align: left;
+    padding: 20px;
+    padding-left: 70px;
+    margin-top: 50px;
+}
+
+.animated-heading {
+    color: #474643;
+}
